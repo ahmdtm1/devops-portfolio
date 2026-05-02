@@ -16,3 +16,9 @@ Based in Manchester, UK.
 - OS: Linux
 - Networking: Cisco
 - Learning: Docker, Kubernetes
+## Certifications & Courses
+- Introduction to Git (GitHub Skills) ✅
+
+## Connect With Me
+- GitHub: https://github.com/ahmdtm1
+- LinkedIn: linkedin.com/in/ahmedtm
